@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "title": "Software Developer Intern",
+    "company": "Tech Corp",
+    "description": "Work on real-world projects using modern technologies",
+    "duration": "3 months",
+    "stipend": "₹20,000/month",
+    "location": "Remote",
+    "requirements": "Knowledge of Python, JavaScript, and Git",
+    "contactName": "HR Manager",
+    "contactEmail": "hr@techcorp.com",
+    "category": "Software Development",
+    "type": "Full-time",
+    "positions": 5,
+    "deadline": "30 Jun 2024",
+    "createdAt": "2023-12-01T10:00:00Z"
+  },
+  {
+    "id": "2", 
+    "title": "Data Science Intern",
+    "company": "Analytics Pro",
+    "description": "Join our data science team to work on ML projects",
+    "duration": "6 months",
+    "stipend": "₹25,000/month",
+    "location": "Delhi",
+    "requirements": "Knowledge of Python, Pandas, and Machine Learning",
+    "contactName": "Technical Lead",
+    "contactEmail": "careers@analyticspro.com",
+    "category": "Data Science",
+    "type": "Full-time",
+    "positions": 3,
+    "deadline": "15 Jul 2024",
+    "createdAt": "2023-12-05T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "UI/UX Design Intern",
+    "company": "DesignHub",
+    "description": "Create stunning user interfaces for web and mobile applications",
+    "duration": "4 months",
+    "stipend": "₹18,000/month",
+    "location": "Mumbai",
+    "requirements": "Proficiency in Figma, Adobe XD and basic HTML/CSS",
+    "contactName": "Design Manager",
+    "contactEmail": "design@designhub.in",
+    "category": "Design",
+    "type": "Part-time",
+    "positions": 2,
+    "deadline": "20 Jun 2024",
+    "createdAt": "2023-12-10T09:15:00Z"
+  }
+]
